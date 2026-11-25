@@ -83,6 +83,7 @@ auxhist*
 *DATA*
 *.TBL
 *.csv
+*.parquet
 
 # no images unless explicitly committed #
 ##################
